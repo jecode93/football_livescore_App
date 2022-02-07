@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.football_livescore_app">
    <application
-        android:label="football_livescore_app"
+        android:label="Football Live Score"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
